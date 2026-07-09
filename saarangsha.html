@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="or">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ସାରାଂଶ — Saarangsha</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Oriya:wght@400;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1B2A44;
+    --ink-soft:#2C3E5D;
+    --paper:#F4EEDD;
+    --paper-card:#FBF8EF;
+    --turmeric:#C7862B;
+    --turmeric-deep:#9C6414;
+    --sindoor:#8A3324;
+    --teal:#2F6E6A;
+    --line: rgba(27,42,68,0.12);
+    --muted: #6B6455;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    font-family:'Inter',sans-serif;
+    color:var(--ink);
+    -webkit-font-smoothing:antialiased;
+  }
+  .oriya{ font-family:'Noto Sans Oriya','Inter',sans-serif; }
+
+  .app{
+    max-width:480px;
+    margin:0 auto;
+    min-height:100vh;
+    background:var(--paper);
+    position:relative;
+    box-shadow:0 0 60px rgba(0,0,0,0.08);
+  }
+
+  /* HEADER */
+  header{
+    background:var(--ink);
+    color:var(--paper);
+    padding:22px 20px 26px;
+    position:relative;
+    overflow:hidden;
+  }
+  header::after{
+    content:"";
+    position:absolute;
+    right:-40px; top:-40px;
+    width:160px; height:160px;
+    border-radius:50%;
+    border:1.5px solid rgba(244,238,221,0.15);
+  }
+  .top-row{
+    display:flex; align-items:center; justify-content:space-between;
+    margin-bottom:18px;
+  }
+  .brand{ display:flex; align-items:center; gap:10px; }
+  .wheel{ width:30px; height:30px; flex-shrink:0; }
+  .brand-text .oriya{
+    font-size:22px; font-weight:700; line-height:1;
+    display:block;
+  }
+  .brand-text .sub{
+    font-family:'Fraunces',serif; font-size:11px; letter-spacing:0.14em;
+    text-transform:uppercase; color:var(--turmeric); margin-top:3px;
+  }
+  .lang-badge{
+    font-size:11px; border:1px solid rgba(244,238,221,0.35);
+    padding:5px 10px; border-radius:20px; color:var(--paper);
+    font-weight:500;
+  }
+  .tagline{
+    font-family:'Fraunces',serif; font-weight:400; font-style:italic;
+    font-size:16px; line-height:1.5; color:rgba(244,238,221,0.85);
+    max-width:340px;
+  }
+
+  /* DEMO NOTICE */
+  .demo-notice{
+    margin:16px 20px 0;
+    background:rgba(199,134,43,0.12);
+    border:1px solid rgba(199,134,43,0.35);
+    color:var(--turmeric-deep);
+    font-size:12px;
+    padding:9px 12px;
+    border-radius:8px;
+    display:flex; gap:8px; align-items:flex-start;
+  }
+
+  /* SOURCE FILTER */
+  .filters{
+    display:flex; gap:8px; padding:16px 20px 6px;
+    overflow-x:auto;
+  }
+  .chip{
+    flex-shrink:0;
+    border:1px solid var(--line);
+    background:var(--paper-card);
+    padding:7px 14px;
+    border-radius:20px;
+    font-size:12.5px; font-weight:600;
+    color:var(--ink-soft);
+    cursor:pointer;
+  }
+  .chip.active{
+    background:var(--ink); color:var(--paper); border-color:var(--ink);
+  }
+
+  /* FEED */
+  .feed{ padding:14px 20px 90px; display:flex; flex-direction:column; gap:16px; }
+
+  .card{
+    background:var(--paper-card);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:18px 18px 16px;
+    position:relative;
+  }
+  .card-top{
+    display:flex; align-items:center; justify-content:space-between;
+    margin-bottom:12px;
+  }
+  .src-pill{
+    font-size:10.5px; font-weight:700; letter-spacing:0.03em;
+    padding:4px 9px; border-radius:5px;
+    color:#fff;
+  }
+  .src-WSJ{ background:#0A5C2B; }
+  .src-NYT{ background:#111; }
+  .src-FT{ background:#F05A28; }
+
+  .meta-right{ display:flex; align-items:center; gap:10px; font-size:11px; color:var(--muted); }
+
+  .headline-oriya{
+    font-family:'Noto Sans Oriya',sans-serif;
+    font-weight:700; font-size:19px; line-height:1.45;
+    margin:0 0 8px;
+    color:var(--ink);
+  }
+  .summary-oriya{
+    font-family:'Noto Sans Oriya',sans-serif;
+    font-weight:400; font-size:15.5px; line-height:1.85;
+    color:var(--ink-soft);
+    margin:0 0 14px;
+  }
+  .orig-headline{
+    font-size:11.5px; color:var(--muted);
+    border-top:1px dashed var(--line);
+    padding-top:11px;
+  }
+  .orig-headline .txt{ font-style:italic; display:block; margin-bottom:8px; }
+  .read-link{
+    color:var(--teal); font-weight:700; text-decoration:none;
+    white-space:nowrap; font-style:normal;
+    display:inline-flex; align-items:center; gap:5px;
+    border:1px solid rgba(47,110,106,0.35);
+    padding:6px 11px; border-radius:7px;
+    font-size:11.5px;
+  }
+  .read-link:hover{ background:rgba(47,110,106,0.08); }
+  .read-link svg{ width:11px; height:11px; }
+  .category-tag{
+    font-size:10px; color:var(--sindoor); font-weight:700;
+    text-transform:uppercase; letter-spacing:0.05em; margin-bottom:6px;
+    display:block;
+  }
+
+  /* BOTTOM NAV */
+  .bottomnav{
+    position:sticky; bottom:0; left:0; right:0;
+    background:var(--paper-card);
+    border-top:1px solid var(--line);
+    display:flex; justify-content:space-around;
+    padding:10px 0 14px;
+    max-width:480px; margin:0 auto;
+  }
+  .nav-item{ text-align:center; font-size:10.5px; color:var(--muted); font-weight:600; }
+  .nav-item.active{ color:var(--turmeric-deep); }
+  .nav-dot{ width:20px; height:20px; margin:0 auto 4px; }
+
+  .lang-expand{
+    margin:6px 20px 0; padding:14px; border-radius:12px;
+    border:1px dashed var(--line); font-size:12px; color:var(--muted);
+    display:flex; flex-wrap:wrap; gap:8px; align-items:center;
+  }
+  .lang-expand .lbl{ font-weight:600; color:var(--ink-soft); width:100%; margin-bottom:2px; }
+  .soon-chip{
+    font-size:11px; padding:4px 10px; border-radius:20px;
+    background:rgba(27,42,68,0.05); color:var(--muted); border:1px solid var(--line);
+  }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <header>
+    <div class="top-row">
+      <div class="brand">
+        <svg class="wheel" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="46" fill="none" stroke="#C7862B" stroke-width="3"/>
+          <circle cx="50" cy="50" r="6" fill="#C7862B"/>
+          <g stroke="#C7862B" stroke-width="2.5">
+            <line x1="50" y1="6" x2="50" y2="94"/>
+            <line x1="6" y1="50" x2="94" y2="50"/>
+            <line x1="17" y1="17" x2="83" y2="83"/>
+            <line x1="83" y1="17" x2="17" y2="83"/>
+            <line x1="50" y1="6" x2="63" y2="22"/>
+            <line x1="50" y1="6" x2="37" y2="22"/>
+            <line x1="94" y1="50" x2="78" y2="63"/>
+            <line x1="94" y1="50" x2="78" y2="37"/>
+            <line x1="50" y1="94" x2="63" y2="78"/>
+            <line x1="50" y1="94" x2="37" y2="78"/>
+            <line x1="6" y1="50" x2="22" y2="63"/>
+            <line x1="6" y1="50" x2="22" y2="37"/>
+          </g>
+        </svg>
+        <div class="brand-text">
+          <span class="oriya">ସାରାଂଶ</span>
+          <span class="sub">Saarangsha</span>
+        </div>
+      </div>
+      <div class="lang-badge">ଓଡ଼ିଆ ▾</div>
+    </div>
+    <p class="tagline">The world's best reporting — WSJ, NYT, FT — translated in full, not dumbed down.</p>
+  </header>
+
+  <div class="demo-notice">
+    ⚠️ <span><strong>Prototype only:</strong> the stories below are sample placeholder content to show the concept — not real articles. A live version would pull real, licensed WSJ/NYT/FT stories.</span>
+  </div>
+
+  <div class="filters">
+    <div class="chip active">ସବୁ · All</div>
+    <div class="chip">WSJ</div>
+    <div class="chip">NYT</div>
+    <div class="chip">FT</div>
+    <div class="chip">ବଜାର · Markets</div>
+    <div class="chip">ବିଶ୍ୱ · World</div>
+  </div>
+
+  <div class="feed">
+
+    <div class="card">
+      <div class="card-top">
+        <span class="src-pill src-WSJ">WSJ</span>
+        <span class="meta-right">🕑 ୩ ମିନିଟ୍ ପଠନ</span>
+      </div>
+      <span class="category-tag">ବଜାର</span>
+      <h3 class="headline-oriya">କେନ୍ଦ୍ରୀୟ ବ୍ୟାଙ୍କର ସୁଧ ହାର ନିଷ୍ପତ୍ତି ପୂର୍ବରୁ ବଜାରରେ ଅସ୍ଥିରତା</h3>
+      <p class="summary-oriya">ଆଗାମୀ ସପ୍ତାହେ ହେବାକୁ ଥିବା ସୁଧ ହାର ନିଷ୍ପତ୍ତି ପୂର୍ବରୁ ବିଶ୍ୱ ବଜାରରେ ଅନିଶ୍ଚିତତା ବଢ଼ିଛି। ବିନିଯୋଗକାରୀମାନେ ମୁଦ୍ରାସ୍ଫୀତି ଆଙ୍କଡ଼ା ଉପରେ ନଜର ରଖିଛନ୍ତି, ଯାହା ଆଗାମୀ ନୀତି ଦିଗ ନିର୍ଣ୍ଣୟ କରିବ। ବିଶ୍ଳେଷକମାନେ କହିଛନ୍ତି ଯେ ଛୋଟ ପରିବର୍ତ୍ତନ ମଧ୍ୟ ବଣ୍ଡ ବଜାରରେ ବଡ଼ ପ୍ରଭାବ ପକାଇପାରେ।</p>
+      <div class="orig-headline">
+        <span class="txt">"Markets brace for rate decision amid inflation data watch"</span>
+        <a class="read-link" href="https://www.wsj.com" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>
+          wsj.com ରେ ମୂଳ ଲେଖା ପଢ଼ନ୍ତୁ
+        </a>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-top">
+        <span class="src-pill src-NYT">NYT</span>
+        <span class="meta-right">🕑 ୪ ମିନିଟ୍ ପଠନ</span>
+      </div>
+      <span class="category-tag">ବିଶ୍ୱ</span>
+      <h3 class="headline-oriya">ଜଳବାୟୁ ଶିଖର ସମ୍ମିଳନୀରେ ବିକଶିତ ଓ ବିକାଶଶୀଳ ଦେଶ ମଧ୍ୟରେ ମତଭେଦ</h3>
+      <p class="summary-oriya">ଜଳବାୟୁ ପରିବର୍ତ୍ତନ ଉପରେ ଆଲୋଚନାରେ ପାରସ୍ପରିକ ଅର୍ଥ ସହାୟତା ପ୍ରସଙ୍ଗକୁ ନେଇ ମତଭେଦ ଦେଖାଦେଇଛି। ବିକାଶଶୀଳ ଦେଶଗୁଡ଼ିକ ଅଧିକ ପାରିପାର୍ଶ୍ୱିକ ପାଣ୍ଠି ଦାବି କରିଛନ୍ତି, ଯେତେବେଳେ କି ବିକଶିତ ଦେଶ ଧୀରେ ଧୀରେ ପ୍ରତିଶ୍ରୁତି ଦେବାକୁ ଚାହୁଁଛନ୍ତି। ଆଲୋଚନା ଆଗାମୀ ସପ୍ତାହ ପର୍ଯ୍ୟନ୍ତ ଚାଲିବ ବୋଲି ଆଶା କରାଯାଉଛି।</p>
+      <div class="orig-headline">
+        <span class="txt">"Climate talks stall over funding gap between rich and poor nations"</span>
+        <a class="read-link" href="https://www.nytimes.com" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>
+          nytimes.com ରେ ମୂଳ ଲେଖା ପଢ଼ନ୍ତୁ
+        </a>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-top">
+        <span class="src-pill src-FT">FT</span>
+        <span class="meta-right">🕑 ୨ ମିନିଟ୍ ପଠନ</span>
+      </div>
+      <span class="category-tag">ବ୍ୟବସାୟ</span>
+      <h3 class="headline-oriya">ଏକ ବଡ଼ ଟେକ୍ କମ୍ପାନୀର ଲାଭ ଆକଳନଠାରୁ ଅଧିକ, ଶେୟାର ମୂଲ୍ୟ ବୃଦ୍ଧି</h3>
+      <p class="summary-oriya">ତ୍ରୈମାସିକ ଫଳାଫଳରେ ଆକଳନଠାରୁ ଅଧିକ ଲାଭ ଦେଖାଇବା ପରେ କମ୍ପାନୀର ଶେୟାର ମୂଲ୍ୟ ବଢ଼ିଛି। କୃତ୍ରିମ ବୁଦ୍ଧିମତ୍ତା ସମ୍ବନ୍ଧୀୟ ସେବାରୁ ଆୟ ମୁଖ୍ୟ କାରଣ ବୋଲି କମ୍ପାନୀ କହିଛି। ତଥାପି, ବିଶ୍ଳେଷକମାନେ ଆଗାମୀ ତ୍ରୈମାସିକରେ ପ୍ରତିଯୋଗିତା ବଢ଼ିବା ଆଶଙ୍କା ପ୍ରକାଶ କରିଛନ୍ତି।</p>
+      <div class="orig-headline">
+        <span class="txt">"Tech giant beats earnings estimates on AI services growth"</span>
+        <a class="read-link" href="https://www.ft.com" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>
+          ft.com ରେ ମୂଳ ଲେଖା ପଢ଼ନ୍ତୁ
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="lang-expand">
+    <span class="lbl">ଶୀଘ୍ର ଆସୁଛି · Coming soon</span>
+    <span class="soon-chip">हिन्दी</span>
+    <span class="soon-chip">বাংলা</span>
+    <span class="soon-chip">தமிழ்</span>
+    <span class="soon-chip">తెలుగు</span>
+  </div>
+
+  <nav class="bottomnav">
+    <div class="nav-item active">
+      <svg class="nav-dot" viewBox="0 0 24 24" fill="none" stroke="#9C6414" stroke-width="2"><path d="M3 12l9-9 9 9M5 10v10h14V10"/></svg>
+      ମୁଖ୍ୟ
+    </div>
+    <div class="nav-item">
+      <svg class="nav-dot" viewBox="0 0 24 24" fill="none" stroke="#6B6455" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>
+      ପରେ ପଢ଼ିବି
+    </div>
+    <div class="nav-item">
+      <svg class="nav-dot" viewBox="0 0 24 24" fill="none" stroke="#6B6455" stroke-width="2"><path d="M4 4h16v16H4z"/><path d="M4 9h16M9 4v16"/></svg>
+      ବିଭାଗ
+    </div>
+    <div class="nav-item">
+      <svg class="nav-dot" viewBox="0 0 24 24" fill="none" stroke="#6B6455" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 4-6 8-6s8 2 8 6"/></svg>
+      ମୋର
+    </div>
+  </nav>
+
+</div>
+</body>
+</html>
