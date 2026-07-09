@@ -1,0 +1,33 @@
+name: Refresh news
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - run: python fetch_news.py
+        env:
+          SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name "saarangsha-bot"
+          git config user.email "actions@github.com"
+          git add data.json translation_cache.json
+          git diff --quiet --cached || git commit -m "Refresh news $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
