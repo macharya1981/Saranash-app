@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09 14:10",
+  "generated_at": "2026-07-09 21:56",
   "items": [
     {
       "source": "NYT",
@@ -9,7 +9,7 @@
       "title_od": "ସାକ୍ଷ୍ୟ: ୟୁ.ଏସ୍. ଏବଂ ଇରାନ ସଦ୍ୟତମ ଆକ୍ରମଣ ପରେ ହିଂସାତ୍ମକ ଚକ୍ରରେ ବୁଡ଼ିଗଲେ",
       "summary_od": "ଜାହାଜ ଉପରେ ଆକ୍ରମଣ ପରେ ଆମେରିକା ଇରାନ ଉପରେ ନୂତନ ଆକ୍ରମଣ କରିଥିଲା, ଯାହାର ପ୍ରତିକ୍ରିୟାରେ ଇରାନ ଉପସାଗରୀୟ ରାଷ୍ଟ୍ରଗୁଡ଼ିକ ଉପରେ ଗୁଳି ଚଳାଇଥିଲା । ଉଭୟ ପକ୍ଷ ପଛକୁ ହଟିବେ ବୋଲି କୌଣସି ସଙ୍କେତ ନଥିବାରୁ, ଯୁଦ୍ଧର ଢାଞ୍ଚା ପ୍ରାୟତଃ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ଧ୍ୱସ୍ତ ହୋଇଯାଇଛି।",
       "link": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
-      "published": "Thu, 09 Jul 2026 20:07:23 +0000",
+      "published": "Thu, 09 Jul 2026 21:54:49 +0000",
       "read_min": 1
     },
     {
@@ -136,6 +136,17 @@
     {
       "source": "FT",
       "category": "World",
+      "title_en": "FirstFT: Wall Street bankers in line for bumper $140mn payday from SK Hynix listing",
+      "summary_en": "Also in today’s newsletter: EU-China trade tensions and European heatwave damps Uniqlo sales growth",
+      "title_od": "ଫାର୍ଷ୍ଟଏଫ୍.ଟି.: ଏସ୍.କେ. ହିନ୍ୟିକ୍ସ ତାଲିକାଭୁକ୍ତ କରି ବମ୍ପର $140 ନିୟୁତ ପେ'ଡେ' ପାଇଁ ୱାଲ୍ ଷ୍ଟ୍ରିଟ୍ ବ୍ୟାଙ୍କରମାନେ ଧାଡ଼ିରେ ଅଛନ୍ତି",
+      "summary_od": "ଆଜିର ଖବରପତ୍ରରେ: ୟୁରୋପୀୟ ସଂଘ-ଚୀନ ବାଣିଜ୍ୟ ଉତ୍ତେଜନା ଏବଂ ୟୁରୋପୀୟ ଗ୍ରୀଷ୍ମ ପ୍ରବାହ ୟୁନିକ୍ଲୋ ବିକ୍ରୟ ଅଭିବୃଦ୍ଧିକୁ ମନ୍ଥର କରିଛି।",
+      "link": "https://www.ft.com/content/01bcadf5-53d6-4fca-9273-95ce96996c5f",
+      "published": "Thu, 09 Jul 2026 21:42:59 GMT",
+      "read_min": 1
+    },
+    {
+      "source": "FT",
+      "category": "World",
       "title_en": "PepsiCo warns of ‘rising inflationary pressures’ for US consumers",
       "summary_en": "Recovery in sales volumes runs out of steam in second quarter as surge in fuel costs hits snack and soda group",
       "title_od": "ପେପ୍ସିକୋ ଆମେରିକୀୟ ଉପଭୋକ୍ତାଙ୍କ ପାଇଁ 'ଚାଲିଥିବା ମୁଦ୍ରାସ୍ଫୀତି ଚାପ' ବିଷୟରେ ଚେତାବନୀ ଦେଇଛି।",
@@ -153,17 +164,6 @@
       "summary_od": "ଲେବର ପାର୍ଟିର 303 ଜଣ ସାଂସଦଙ୍କ ମଧ୍ୟରୁ 322 ଜଣ କେୟାର ଷ୍ଟାର୍ମର୍‌ଙ୍କ ସ୍ଥାନରେ ତାଙ୍କୁ ମନୋନୀତ କରିବାରୁ, ଏହା 'ବହୁତ ବାସ୍ତବ' ଅନୁଭବ କରିବାକୁ ଲାଗିଲା ବୋଲି ପୂର୍ବ ମାଞ୍ଚେଷ୍ଟର ମେୟର କହିଛନ୍ତି।",
       "link": "https://www.ft.com/content/d37940d1-9993-49cd-9f76-cf69cd6f71dd",
       "published": "Thu, 09 Jul 2026 20:05:06 GMT",
-      "read_min": 1
-    },
-    {
-      "source": "FT",
-      "category": "World",
-      "title_en": "Andy Burnham apologises for Labour’s Gaza war stance",
-      "summary_en": "Britain’s likely next prime minister seeks to win back leftwing voters outraged by Keir Starmer’s approach to Israel",
-      "title_od": "ଆଣ୍ଡି ବର୍ନହାମ୍ ଲେବରଙ୍କ ଗାଜା ଯୁଦ୍ଧ ଆଭିମୁଖ୍ୟ ପାଇଁ କ୍ଷମା ପ୍ରାର୍ଥନା କରିଛନ୍ତି।",
-      "summary_od": "ଇସ୍ରାଏଲ ପ୍ରତି କିଏ ଷ୍ଟାର୍ମର୍‌ଙ୍କ ଆଭିମୁଖ୍ୟରେ ବିଚଳିତ ବାମପନ୍ଥୀ ଭୋଟରମାନଙ୍କୁ ପୁନର୍ବାର ଜିତିବାକୁ ବ୍ରିଟେନର ସମ୍ଭାବ୍ୟ ପରବର୍ତ୍ତୀ ପ୍ରଧାନମନ୍ତ୍ରୀ ଚାହୁଁଛନ୍ତି।",
-      "link": "https://www.ft.com/content/6fe42d7e-c267-48d3-87d1-b51cc4d86d03",
-      "published": "Thu, 09 Jul 2026 19:57:29 GMT",
       "read_min": 1
     }
   ]
