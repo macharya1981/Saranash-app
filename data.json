@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 19:27",
+  "generated_at": "2026-07-11 02:38",
   "items": [
     {
       "source": "NYT",
@@ -9,7 +9,7 @@
       "title_od": "ଇରାନର ସର୍ବୋଚ୍ଚ ନେତା ଅନୁପସ୍ଥିତ, ଶାସନ ଶୂନ୍ୟ ହୋଇଯାଇଛି।",
       "summary_od": "ଆୟାତୋଲ୍ଲା ମୋଜତାବା ଖାମେନି ଏହି ସପ୍ତାହରେ ତାଙ୍କ ପିତାଙ୍କ ଅନ୍ତିମ ସଂସ୍କାରରେ ଉପସ୍ଥିତ ହୋଇନଥିଲେ, ଯାହା ତାଙ୍କ ଶାରୀରିକ ଅବସ୍ଥା ବିଷୟରେ ଅନୁମାନକୁ ପ୍ରୋତ୍ସାହିତ କରିଥିଲା ଏବଂ ବିଭାଜିତ ଦେଶରେ ଏକ ଶୂନ୍ୟସ୍ଥାନ ସୃଷ୍ଟି କରିଥିଲା।",
       "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
-      "published": "Fri, 10 Jul 2026 16:00:29 +0000",
+      "published": "Fri, 10 Jul 2026 16:00:30 +0000",
       "read_min": 1
     },
     {
@@ -37,12 +37,23 @@
     {
       "source": "NYT",
       "category": "Business",
+      "title_en": "New York Times Accuses Federal Employment Agency of Retaliation",
+      "summary_en": "A May lawsuit by the Equal Employment Opportunity Commission claims the newspaper discriminated against a white male employee who did not get a promotion.",
+      "title_od": "ନ୍ୟୁୟର୍କ ଟାଇମ୍ସ ଫେଡେରାଲ୍‌ ଏମ୍ପ୍ଲୟମେଣ୍ଟ ଏଜେନ୍ସି ଉପରେ ପ୍ରତିଶୋଧ ନେଉଥିବାର ଅଭିଯୋଗ କରିଛି।",
+      "summary_od": "ଇକ୍ୱାଲ ଏମ୍ପ୍ଲୟୋଜନ ଅପରଚୟ କମିଶନଙ୍କ ଦ୍ୱାରା ଏକ ମକଦ୍ଦମା ଦାଏର କରାଯାଇଛି, ଯେଉଁଥିରେ ଦାବି କରାଯାଇଛି ଯେ ଏହି ସମ୍ବାଦପତ୍ର ଏକ ଶ୍ଵେତାଙ୍ଗ ପୁରୁଷ କର୍ମଚାରୀଙ୍କ ପ୍ରତି ଭେଦଭାବ କରିଥିଲା, ଯାହାଙ୍କୁ ପଦୋନ୍ନତି ମିଳିନଥିଲା।",
+      "link": "https://www.nytimes.com/2026/07/10/business/media/new-york-times-eeoc-lawsuit.html",
+      "published": "Sat, 11 Jul 2026 01:33:43 +0000",
+      "read_min": 1
+    },
+    {
+      "source": "NYT",
+      "category": "Business",
       "title_en": "SK Hynix Stock Rises on First Day of US Trading",
       "summary_en": "SK Hynix began trading at $170 a share, above its initial public offering price of $149, in the latest test of investor demand for A.I.-related companies.",
       "title_od": "ୟୁ.ଏସ୍. ଟ୍ରେଡିଂର ପ୍ରଥମ ଦିନରେ ଏସ୍.କେ. ହାଇନକ୍ସ ଷ୍ଟକ୍ ବୃଦ୍ଧି ପାଇଛି",
       "summary_od": "ଏ.ଆଇ.-ସମ୍ବନ୍ଧିତ କମ୍ପାନୀଗୁଡ଼ିକ ପାଇଁ ନିବେଶକଙ୍କ ଚାହିଦାର ସଦ୍ୟତମ ପରୀକ୍ଷାରେ, ଏସ୍‌.କେ. ହାଇନକ୍ସ ସେୟାର ପ୍ରତି $170ରେ କାରବାର ଆରମ୍ଭ କରିଥିଲା, ଯାହାକି ଏହାର ପ୍ରାରମ୍ଭିକ ପବ୍ଲିକ ଅଫର୍‌ ମୂଲ୍ୟ $149 ଠାରୁ ଅଧିକ ଥିଲା।",
       "link": "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html",
-      "published": "Fri, 10 Jul 2026 19:08:03 +0000",
+      "published": "Fri, 10 Jul 2026 20:08:13 +0000",
       "read_min": 1
     },
     {
@@ -54,17 +65,6 @@
       "summary_od": "କମ୍ପାନୀଗୁଡ଼ିକ ତୀବ୍ରତାର ସହିତ ସେମାନଙ୍କ ଜାହାଜଗୁଡ଼ିକୁ ହୋର୍ମୁଜ ସ୍ତ୍ରୀଲିଙ୍ଗ ଦେଇ ଗତି କରାଇବାକୁ ଚାହୁଁଛନ୍ତି, କିନ୍ତୁ ସେମାନେ ବଢ଼ିଉଠୁଥିବା ବିପଦର ସମ୍ମୁଖୀନ ହେଉଛନ୍ତି। ଜଣେ କାର୍ଯ୍ୟନିର୍ବାହୀ କହିଲେ, \"ସମୟ ଗଡ଼ି ଚାଲିଛି, ପରିସ୍ଥିତି ଆହୁରି ଖରାପ ହେବାରେ ଲାଗିଛି\"।",
       "link": "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html",
       "published": "Fri, 10 Jul 2026 18:02:56 +0000",
-      "read_min": 1
-    },
-    {
-      "source": "NYT",
-      "category": "Business",
-      "title_en": "Atlassian Illegally Fired Worker in Rare Legal Victory for Tech Worker",
-      "summary_en": "A federal labor law judge determined last week that the software maker Atlassian had illegally fired an employee who questioned company policy changes.",
-      "title_od": "ଆଟଲାସିଆନ୍ ଟେକ୍ କର୍ମଚାରୀଙ୍କ ପାଇଁ ଏକ ବିରଳ ଆଇନଗତ ବିଜୟ ହାସଲରେ କର୍ମଚାରୀଙ୍କୁ ବେଆଇନ ଭାବରେ ବହିଷ୍କାର କରିଥିଲେ",
-      "summary_od": "ଏକ ସଂଘୀୟ ଶ୍ରମ ଆଇନ ବିଚାରପତି ଗତ ସପ୍ତାହରେ ନିର୍ଦ୍ଧାରଣ କରିଥିଲେ ଯେ ସଫ୍ଟୱେର୍ ନିର୍ମାତା ଆଟଲାସୀୟ କମ୍ପାନୀର ନୀତି ପରିବର୍ତ୍ତନକୁ ପ୍ରଶ୍ନ କରିଥିବା ଜଣେ କର୍ମଚାରୀଙ୍କୁ ବେଆଇନ ଭାବରେ ବହିଷ୍କାର କରିଥିଲା ।",
-      "link": "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html",
-      "published": "Fri, 10 Jul 2026 16:41:21 +0000",
       "read_min": 1
     },
     {
@@ -136,34 +136,34 @@
     {
       "source": "FT",
       "category": "World",
-      "title_en": "US sends team to Beirut to shore up Israel-Hizbollah ceasefire",
-      "summary_en": "Lebanese president calls for ‘pressure’ on Israel to start pulling back forces",
-      "title_od": "ଇସ୍ରାଏଲ-ହିଜ୍‌ବଲାହ୍‌ ମଧ୍ୟରେ ହୋଇଥିବା ଯୁଦ୍ଧବିରତିକୁ ସୁଦୃଢ଼ କରିବା ପାଇଁ ଆମେରିକା ବେରୁତ୍‌କୁ ଏକ ଦଳ ପଠାଇଛି।",
-      "summary_od": "ଲେବନୀୟ ରାଷ୍ଟ୍ରପତି ଇସ୍ରାଏଲ ଉପରେ ସେନା ପ୍ରତ୍ୟାହାର ଆରମ୍ଭ କରିବା ପାଇଁ 'ଚାପ' ପକାଇବାକୁ ଆହ୍ୱାନ ଦେଇଛନ୍ତି",
-      "link": "https://www.ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff",
-      "published": "Fri, 10 Jul 2026 19:25:03 GMT",
+      "title_en": "Trump says US has agreed to continue talks with Iran",
+      "summary_en": "President calls on Tehran to declare they will stop any attacks in the Strait of Hormuz",
+      "title_od": "ଇରାନ ସହ ଆଲୋଚନା ଜାରି ରଖିବାକୁ ଆମେରିକା ରାଜି ହୋଇଛି ବୋଲି ଟ୍ରମ୍ପ କହିଛନ୍ତି।",
+      "summary_od": "ରାଷ୍ଟ୍ରପତି ତେହେରାନକୁ ଆହ୍ୱାନ ଦେଇ କହିଲେ ଯେ ସେମାନେ ହୋର୍ମୁଜ ସ୍ତ୍ରୀଲିପିରେ ଯେକୌଣସି ଆକ୍ରମଣକୁ ବନ୍ଦ କରିବେ।",
+      "link": "https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9",
+      "published": "Fri, 10 Jul 2026 23:43:33 GMT",
       "read_min": 1
     },
     {
       "source": "FT",
       "category": "World",
-      "title_en": "At least 12 people die in Spanish wildfire as heatwave grips Europe",
-      "summary_en": "Alarm over summer of blazes as third wave of extreme heat hits region",
-      "title_od": "ୟୁରୋପରେ ତାତି ବଢ଼ିବା ସହ ସ୍ପେନରେ ଅଗ୍ନିକାଣ୍ଡରେ ଅତିକମ୍‍‍ରେ 12 ଜଣଙ୍କ ମୃତ୍ୟୁ ଘଟିଛି ।",
-      "summary_od": "ଗ୍ରୀଷ୍ମଋୁତୁରେ ନିଆଁ ଲାଗିବାର ଆଶଙ୍କା, ତୃତୀୟ ଲହରୀ ପ୍ରବଳ ଗ୍ରୀଷ୍ମଋୁଣିର ଆଶଙ୍କା",
-      "link": "https://www.ft.com/content/065e5550-1691-4698-8d62-b4735dfec6ca",
-      "published": "Fri, 10 Jul 2026 19:15:47 GMT",
+      "title_en": "Apple sues OpenAI alleging theft of top-secret information",
+      "summary_en": "Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley",
+      "title_od": "ଆପଲ୍ ଓପନଏଆଇ ଉପରେ ଶୀର୍ଷ-ଗୁପ୍ତ ସୂଚନା ଚୋରି କରିଥିବା ଅଭିଯୋଗ କରି ମାମଲା ଦାୟର କରିଛି।",
+      "summary_od": "ଆଇନଗତ ମାମଲା ଯୋଗୁଁ ସିଲିକନ୍ ଭ୍ୟାଲିର ଦୁଇ ବଡ଼ ନାମ ମଧ୍ୟରେ ସମ୍ପର୍କ ଭାଙ୍ଗିଯାଇଛି।",
+      "link": "https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2",
+      "published": "Fri, 10 Jul 2026 22:50:16 GMT",
       "read_min": 1
     },
     {
       "source": "FT",
       "category": "World",
-      "title_en": "US senators strike deal with White House to tighten Russia sanctions",
-      "summary_en": "Potential breakthrough comes days after Donald Trump signalled shift towards more support for Kyiv",
-      "title_od": "ୟୁ.ଏସ୍. ସିନେଟର୍‌ମାନେ ରୁଷ ଉପରେ ଲାଗିଥିବା ପ୍ରତିବନ୍ଧକକୁ କଠୋର କରିବା ପାଇଁ ହ୍ୱାଇଟ ହାଉସ୍‌ ସହିତ ଚୁକ୍ତି କରିଛନ୍ତି ।",
-      "summary_od": "ଡୋନାଲ୍ଡ ଟ୍ରମ୍ପ କିଭ୍‌କୁ ଅଧିକ ସମର୍ଥନ ଦିଗରେ ପରିବର୍ତ୍ତନ ସଙ୍କେତ ଦେବା ପରେ କିଛି ଦିନ ପରେ ସମ୍ଭାବ୍ୟ ସଫଳତା ଆସିଛି ।",
-      "link": "https://www.ft.com/content/54fba496-986c-44a0-99db-dfb8bb6fce23",
-      "published": "Fri, 10 Jul 2026 18:30:33 GMT",
+      "title_en": "US relaxes export controls on advanced chips and drones for UAE",
+      "summary_en": "Gulf state will receive access to sophisticated American technology",
+      "title_od": "ୟୁ.ଏ.ଇ. ପାଇଁ ଉନ୍ନତ ଚିପ୍ ଏବଂ ଡ୍ରୋନ୍ ଉପରେ ଆମେରିକାର ରପ୍ତାନୀ ନିୟନ୍ତ୍ରଣକୁ କୋହଳ କଲା",
+      "summary_od": "ଉପସାଗରୀୟ ରାଷ୍ଟ୍ରକୁ ଉନ୍ନତ ଆମେରିକୀୟ ପ୍ରଯୁକ୍ତିବିଦ୍ୟାର ସୁବିଧା ମିଳିବ।",
+      "link": "https://www.ft.com/content/8f33a9b2-bf8a-4c11-8a94-5d86a93b29ba",
+      "published": "Fri, 10 Jul 2026 21:25:08 GMT",
       "read_min": 1
     }
   ]
