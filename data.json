@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-11 02:38",
+  "generated_at": "2026-07-11 07:56",
   "items": [
+    {
+      "source": "NYT",
+      "category": "World",
+      "title_en": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
+      "summary_en": "For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.",
+      "title_od": "'ସେମାନଙ୍କୁ ଲୋକଙ୍କ ଆବଶ୍ୟକତା ନାହିଁ': ଚୀନର ରୋବଟ୍ ଅଭିଯାନ ଦ୍ୱାରା ପଛରେ ଛଡ଼ାଯାଇଥିବା ଶ୍ରମିକମାନେ",
+      "summary_od": "ଇଲେକ୍ଟ୍ରୋନିକ୍ସ ଉତ୍ପାଦନ ଦ୍ୱାରା ସମୃଦ୍ଧ ଏକ ଅଞ୍ଚଳ କୁନଶାନରେ, ବେକାର କାରଖାନା କର୍ମଚାରୀମାନଙ୍କ ପାଇଁ, ଏକ ପାର୍କ ହିଁ ଏକମାତ୍ର ସ୍ଥାନ।",
+      "link": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
+      "published": "Sat, 11 Jul 2026 04:01:08 +0000",
+      "read_min": 1
+    },
+    {
+      "source": "NYT",
+      "category": "World",
+      "title_en": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
+      "summary_en": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
+      "title_od": "ଟ୍ରମ୍ପଙ୍କ ବିଳମ୍ବ ପରେ, କାନାଡା-ଆମେରିକା ସେତୁ ଖୋଲିବାକୁ ଯାଉଛି",
+      "summary_od": "ଏକ ଚୁକ୍ତି ଯୋଗୁଁ ଟ୍ରମ୍ପ ପ୍ରଶାସନର ଏକ ନୂତନ ସେତୁକୁ ଅବରୋଧ କରିବାର ନିଷ୍ପତ୍ତି ଶେଷ ହୋଇଥିଲା, ଯାହା ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ଏବଂ କାନାଡା ମଧ୍ୟରେ ସବୁଠାରୁ ବ୍ୟସ୍ତବହୁଳ ବାଣିଜ୍ୟ କରିଡରରେ ଭିଡ଼ ହ୍ରାସ କରିବ।",
+      "link": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
+      "published": "Sat, 11 Jul 2026 06:07:32 +0000",
+      "read_min": 1
+    },
     {
       "source": "NYT",
       "category": "World",
@@ -14,24 +36,13 @@
     },
     {
       "source": "NYT",
-      "category": "World",
-      "title_en": "At Least 12 People Die in Southern Spain Wildfire",
-      "summary_en": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said.",
-      "title_od": "ଦକ୍ଷିଣ ସ୍ପେନରେ ଜଙ୍ଗଲ ନିଆଁରେ ଅତିକମ୍‌ରେ 12 ଜଣଙ୍କ ମୃତ୍ୟୁ ହୋଇଛି ।",
-      "summary_od": "ଦେଶରେ ରେକର୍ଡ ହୋଇଥିବା ସବୁଠାରୁ ଭୟଙ୍କର ଅଗ୍ନିକାଣ୍ଡରେ, ଆଣ୍ଡାଲୁସିଆରେ ମଧ୍ୟ, 20ରୁ ଅଧିକ ଲୋକ ନିଖୋଜ ହୋଇଯାଇଥିଲେ। ପୀଡ଼ିତଙ୍କ ମଧ୍ୟରୁ ଅନେକ ବିଦେଶୀ ପର୍ଯ୍ୟଟକ ଥିଲେ ବୋଲି ସ୍ପେନୀୟ କର୍ତ୍ତୃପକ୍ଷ କହିଛନ୍ତି ।",
-      "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
-      "published": "Fri, 10 Jul 2026 18:45:03 +0000",
-      "read_min": 1
-    },
-    {
-      "source": "NYT",
-      "category": "World",
-      "title_en": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
-      "summary_en": "Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead.",
-      "title_od": "ଭେନେଜୁଏଲା ଭୂମିକମ୍ପ ପରେ, ଏକ ଯୁବ ବେସବଲ୍ ଲିଗ୍ ମୃତକଙ୍କ ସଂଖ୍ୟା ଗଣନା କରେ ।",
-      "summary_od": "ଭେନେଜୁଏଲାର ଜାତୀୟ ଗୌରବର ପ୍ରତୀକ, ଯୁବ ବେସବଲ୍ ଲିଗ୍ ପାଇଁ ଖେଳିଥିବା ପିଲାମାନେ ଆହତ, ଅନାଥ କିମ୍ବା ମୃତ ହୋଇଛନ୍ତି।",
-      "link": "https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html",
-      "published": "Fri, 10 Jul 2026 09:01:59 +0000",
+      "category": "Business",
+      "title_en": "Times Journalists Subpoenaed as Trump Escalates Pressure on Media",
+      "summary_en": "The Justice Department is seeking to compel testimony from reporters who wrote about the new Air Force One. The Times called the move a “brazen act.”",
+      "title_od": "ମିଡିଆ ଉପରେ ଟ୍ରମ୍ପଙ୍କ ଚାପ ବଢ଼ିବାରୁ ଟାଇମ୍ସ ସାମ୍ବାଦିକମାନଙ୍କୁ କୋର୍ଟଙ୍କ ନିର୍ଦ୍ଦେଶ",
+      "summary_od": "ନୂଆ ଏୟାର ଫୋର୍ସ ଓ୍ୱେନ ବିଷୟରେ ଲେଖିଥିବା ସାମ୍ବାଦିକମାନଙ୍କ ଠାରୁ ସାକ୍ଷ୍ୟ ଆଦାୟ କରିବାକୁ ନ୍ୟାୟ ବିଭାଗ ଚାହୁଁଛି। ଟାଇମ୍ସ ଏହି ପଦକ୍ଷେପକୁ ଏକ \"ବିକାରୀ କାର୍ଯ୍ୟ\" ବୋଲି କହିଥିଲା।",
+      "link": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
+      "published": "Sat, 11 Jul 2026 04:10:21 +0000",
       "read_min": 1
     },
     {
@@ -54,17 +65,6 @@
       "summary_od": "ଏ.ଆଇ.-ସମ୍ବନ୍ଧିତ କମ୍ପାନୀଗୁଡ଼ିକ ପାଇଁ ନିବେଶକଙ୍କ ଚାହିଦାର ସଦ୍ୟତମ ପରୀକ୍ଷାରେ, ଏସ୍‌.କେ. ହାଇନକ୍ସ ସେୟାର ପ୍ରତି $170ରେ କାରବାର ଆରମ୍ଭ କରିଥିଲା, ଯାହାକି ଏହାର ପ୍ରାରମ୍ଭିକ ପବ୍ଲିକ ଅଫର୍‌ ମୂଲ୍ୟ $149 ଠାରୁ ଅଧିକ ଥିଲା।",
       "link": "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html",
       "published": "Fri, 10 Jul 2026 20:08:13 +0000",
-      "read_min": 1
-    },
-    {
-      "source": "NYT",
-      "category": "Business",
-      "title_en": "Shippers Face Deepening Dilemma as U.S. and Iran Vie for Control of the Strait",
-      "summary_en": "Companies desperately want to get their ships moving through the Strait of Hormuz, but face mounting risks. “Things are becoming uglier by the minute,” one executive said.",
-      "title_od": "ଜାହାଜ ଚାଳକମାନେ ଗଭୀର ଦ୍ୱନ୍ଦ୍ୱର ସମ୍ମୁଖୀନ ହେଉଛନ୍ତି, କାରଣ ଆମେରିକା ଏବଂ ଇରାନ ଏହି ଜଳସେଚନ ଉପରେ ନିୟନ୍ତ୍ରଣ ପାଇଁ ପ୍ରତିଦ୍ୱନ୍ଦ୍ୱିତା କରୁଛନ୍ତି।",
-      "summary_od": "କମ୍ପାନୀଗୁଡ଼ିକ ତୀବ୍ରତାର ସହିତ ସେମାନଙ୍କ ଜାହାଜଗୁଡ଼ିକୁ ହୋର୍ମୁଜ ସ୍ତ୍ରୀଲିଙ୍ଗ ଦେଇ ଗତି କରାଇବାକୁ ଚାହୁଁଛନ୍ତି, କିନ୍ତୁ ସେମାନେ ବଢ଼ିଉଠୁଥିବା ବିପଦର ସମ୍ମୁଖୀନ ହେଉଛନ୍ତି। ଜଣେ କାର୍ଯ୍ୟନିର୍ବାହୀ କହିଲେ, \"ସମୟ ଗଡ଼ି ଚାଲିଛି, ପରିସ୍ଥିତି ଆହୁରି ଖରାପ ହେବାରେ ଲାଗିଛି\"।",
-      "link": "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html",
-      "published": "Fri, 10 Jul 2026 18:02:56 +0000",
       "read_min": 1
     },
     {
@@ -136,34 +136,34 @@
     {
       "source": "FT",
       "category": "World",
-      "title_en": "Trump says US has agreed to continue talks with Iran",
-      "summary_en": "President calls on Tehran to declare they will stop any attacks in the Strait of Hormuz",
-      "title_od": "ଇରାନ ସହ ଆଲୋଚନା ଜାରି ରଖିବାକୁ ଆମେରିକା ରାଜି ହୋଇଛି ବୋଲି ଟ୍ରମ୍ପ କହିଛନ୍ତି।",
-      "summary_od": "ରାଷ୍ଟ୍ରପତି ତେହେରାନକୁ ଆହ୍ୱାନ ଦେଇ କହିଲେ ଯେ ସେମାନେ ହୋର୍ମୁଜ ସ୍ତ୍ରୀଲିପିରେ ଯେକୌଣସି ଆକ୍ରମଣକୁ ବନ୍ଦ କରିବେ।",
-      "link": "https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9",
-      "published": "Fri, 10 Jul 2026 23:43:33 GMT",
+      "title_en": "Police release man arrested on suspicion of murder of Ann Widdecombe",
+      "summary_en": "Devon and Cornwall force says 26-year-old is no longer part of the investigation",
+      "title_od": "ଆନ୍ ୱିଡେକୋମ୍ବେଙ୍କ ହତ୍ୟା ସନ୍ଦେହରେ ଗିରଫ ବ୍ୟକ୍ତିଙ୍କୁ ପୋଲିସ୍ ମୁକ୍ତ କରେ",
+      "summary_od": "ଡେଭନ୍ ଏବଂ କର୍ଣ୍ଣୱାଲ୍ ଫୋର୍ସ କହନ୍ତି ଯେ 26 ବର୍ଷୀୟ ବ୍ୟକ୍ତି ଆଉ ତଦନ୍ତର ଅଂଶ ନୁହଁନ୍ତି ।",
+      "link": "https://www.ft.com/content/081cae25-024b-4965-9b7b-450adaf1216c",
+      "published": "Sat, 11 Jul 2026 06:05:38 GMT",
       "read_min": 1
     },
     {
       "source": "FT",
       "category": "World",
-      "title_en": "Apple sues OpenAI alleging theft of top-secret information",
-      "summary_en": "Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley",
-      "title_od": "ଆପଲ୍ ଓପନଏଆଇ ଉପରେ ଶୀର୍ଷ-ଗୁପ୍ତ ସୂଚନା ଚୋରି କରିଥିବା ଅଭିଯୋଗ କରି ମାମଲା ଦାୟର କରିଛି।",
-      "summary_od": "ଆଇନଗତ ମାମଲା ଯୋଗୁଁ ସିଲିକନ୍ ଭ୍ୟାଲିର ଦୁଇ ବଡ଼ ନାମ ମଧ୍ୟରେ ସମ୍ପର୍କ ଭାଙ୍ଗିଯାଇଛି।",
-      "link": "https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2",
-      "published": "Fri, 10 Jul 2026 22:50:16 GMT",
+      "title_en": "Sadiq Khan lobbies for Ed Miliband to become chancellor",
+      "summary_en": "Energy secretary wins support from London mayor but faces opposition from some Labour MPs over his net zero policies",
+      "title_od": "ସାଦିକ୍ ଖାନ୍ ଏଡ୍ ମିଲିବାଣ୍ଡଙ୍କୁ ଚାନ୍‌ସେଲର ହେବା ପାଇଁ ପ୍ରବର୍ତ୍ତାଉଛନ୍ତି",
+      "summary_od": "ଶକ୍ତି ସଚିବ ଲଣ୍ଡନର ମେୟରଙ୍କ ସମର୍ଥନ ପାଇଲେ, କିନ୍ତୁ ତାଙ୍କ ନିଟ୍‌ ଶୂନ୍ୟ ନୀତିକୁ ନେଇ କିଛି ଲେବର ସାଂସଦଙ୍କ ବିରୋଧର ସମ୍ମୁଖୀନ ହେଲେ।",
+      "link": "https://www.ft.com/content/b1881eb8-d342-42f5-b92e-c144c019b349",
+      "published": "Sat, 11 Jul 2026 04:00:42 GMT",
       "read_min": 1
     },
     {
       "source": "FT",
       "category": "World",
-      "title_en": "US relaxes export controls on advanced chips and drones for UAE",
-      "summary_en": "Gulf state will receive access to sophisticated American technology",
-      "title_od": "ୟୁ.ଏ.ଇ. ପାଇଁ ଉନ୍ନତ ଚିପ୍ ଏବଂ ଡ୍ରୋନ୍ ଉପରେ ଆମେରିକାର ରପ୍ତାନୀ ନିୟନ୍ତ୍ରଣକୁ କୋହଳ କଲା",
-      "summary_od": "ଉପସାଗରୀୟ ରାଷ୍ଟ୍ରକୁ ଉନ୍ନତ ଆମେରିକୀୟ ପ୍ରଯୁକ୍ତିବିଦ୍ୟାର ସୁବିଧା ମିଳିବ।",
-      "link": "https://www.ft.com/content/8f33a9b2-bf8a-4c11-8a94-5d86a93b29ba",
-      "published": "Fri, 10 Jul 2026 21:25:08 GMT",
+      "title_en": "Europe’s slow electrification is a ‘major mistake’, warns IEA chief",
+      "summary_en": "Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis",
+      "title_od": "ୟୁରୋପର ମନ୍ଥର ବିଦ୍ୟୁତୀକରଣ ଏକ 'ବଡ଼ ଭୁଲ' ବୋଲି ଆଇ.ଇ.ଏ. ମୁଖ୍ୟ ଚେତାବନୀ ଦେଇଛନ୍ତି।",
+      "summary_od": "ଫାତିହ ବିରୋଲ କହିଛନ୍ତି ଯେ 2022 ଗ୍ୟାସ ସଙ୍କଟ ପରେ ଇ.ୟୁ. ଶକ୍ତି ସ୍ୱାଧୀନତା ହାସଲ କରିବା ପାଇଁ ଶୀଘ୍ର ଗତିଶୀଳ ହେବା ଉଚିତ୍‌ ।",
+      "link": "https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6",
+      "published": "Sat, 11 Jul 2026 04:00:41 GMT",
       "read_min": 1
     }
   ]
