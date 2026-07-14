@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13 19:23",
+  "generated_at": "2026-07-14 02:29",
   "items": [
     {
       "source": "NYT",
@@ -15,12 +15,12 @@
     {
       "source": "NYT",
       "category": "World",
-      "title_en": "Live Updates: U.S. and Iran Edge Toward War Again",
-      "summary_en": "After more escalatory rhetoric and attacks, President Trump said the United States was renewing its shipping blockade of Iranian ports and would charge a 20 percent fee on goods passing through the Strait of Hormuz.",
-      "title_od": "ସାମ୍‌ଜଳ ଅପଡେଟ୍‌: ଆମେରିକା ଓ ଇରାନ ପୁଣିଥରେ ଯୁଦ୍ଧ ଆଡ଼କୁ ଅଗ୍ରସର ହେଉଛନ୍ତି",
-      "summary_od": "ଅଧିକ ଉତ୍ତେଜନାମୂଳକ ବାକ୍‌ଯୁଦ୍ଧ ଏବଂ ଆକ୍ରମଣ ପରେ, ରାଷ୍ଟ୍ରପତି ଟ୍ରମ୍ପ କହିଲେ ଯେ ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ଇରାନର ବନ୍ଦରଗୁଡ଼ିକ ଉପରେ ନିଜର ଜାହାଜ ଚଳାଚଳ ପ୍ରତିବନ୍ଧକକୁ ପୁନଃସ୍ଥାପିତ କରୁଛି ଏବଂ ହୋର୍ମୁଜ ଜୁଆଳି ଦେଇ ଯାଉଥିବା ସାମଗ୍ରୀ ଉପରେ 20 ପ୍ରତିଶତ ଶୁଳ୍କ ଲଗାଉଛି।",
+      "title_en": "Live Updates: U.S. Forces Begin New Round of Strikes on Iran",
+      "summary_en": "President Trump had earlier threatened “very hard” strikes, ordered the resumption of a blockade on Iranian ports to begin Tuesday and said the U.S. would charge a 20 percent fee on goods passing through the Strait of Hormuz.",
+      "title_od": "ସାମ୍ନାସାମ୍ନି ସ୍ଥିତି: ଇରାନ ଉପରେ ଆମେରିକା ସୈନ୍ୟମାନେ ନୂତନ ପର୍ଯ୍ୟାୟର ଆକ୍ରମଣ ଆରମ୍ଭ କଲେ",
+      "summary_od": "ରାଷ୍ଟ୍ରପତି ଟ୍ରମ୍ପ ପୂର୍ବରୁ \"ବହୁତ କଠୋର\" ଆକ୍ରମଣର ଧମକ ଦେଇଥିଲେ, ମଙ୍ଗଳବାର ଠାରୁ ଇରାନର ବନ୍ଦରଗୁଡ଼ିକ ଉପରେ ଅବରୋଧ ପୁନଃ ଆରମ୍ଭ କରିବାକୁ ନିର୍ଦ୍ଦେଶ ଦେଇଥିଲେ ଏବଂ କହିଥିଲେ ଯେ ଆମେରିକା, ହୋର୍ମୁଜ ଜୁଆଳି ଦେଇ ଯାଉଥିବା ସାମଗ୍ରୀ ଉପରେ 20 ପ୍ରତିଶତ ଶୁଳ୍କ ଲଗାଇବ।",
       "link": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-      "published": "Mon, 13 Jul 2026 19:21:06 +0000",
+      "published": "Tue, 14 Jul 2026 02:17:21 +0000",
       "read_min": 1
     },
     {
@@ -32,6 +32,17 @@
       "summary_od": "ଉତ୍ତର ଇଂଲଣ୍ଡରେ ଡଜନ ଡଜନ ଝିଅଙ୍କୁ ବଳାତ୍କାର କରିଥିବା ଏକ ଗ୍ୟାଙ୍ଗର ନେତା ଶବିର ଅହମ୍ମଦଙ୍କୁ ପାକିସ୍ତାନକୁ ନିର୍ବାସିତ କରିବା ଲାଗି ବ୍ରିଟିଶ୍ ସରକାର ସୋମବାର ଦିନ ପଦକ୍ଷେପମାନ ନେଇଥିଲେ ।",
       "link": "https://www.nytimes.com/2026/07/13/world/europe/uk-deportation-law-change-grooming-gang.html",
       "published": "Mon, 13 Jul 2026 18:55:33 +0000",
+      "read_min": 1
+    },
+    {
+      "source": "NYT",
+      "category": "Business",
+      "title_en": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
+      "summary_en": "The potential expense of a 20 percent charge to move oil and other goods through the strait has stirred concern among shippers.",
+      "title_od": "ଟ୍ରମ୍ପଙ୍କ ହୋର୍ମୁଜ ସ୍ତ୍ରୀଲିଙ୍ଗରେ ଶୁଳ୍କ ବୃଦ୍ଧି ହେଲେ ମାଲ ପରିବହନ ଖର୍ଚ୍ଚ ଦ୍ୱିଗୁଣିତ ହୋଇପାରେ।",
+      "summary_od": "ଏହି ଜଳପଥ ଦେଇ ତୈଳ ଏବଂ ଅନ୍ୟାନ୍ୟ ସାମଗ୍ରୀ ପରିବହନ ପାଇଁ 20 ପ୍ରତିଶତ ଶୁଳ୍କ ଲାଗୁ ହେବାର ସମ୍ଭାବ୍ୟ ବ୍ୟୟ ଜାହାଜ ମାଲିକମାନଙ୍କ ମଧ୍ୟରେ ଚିନ୍ତା ସୃଷ୍ଟି କରିଛି।",
+      "link": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html",
+      "published": "Mon, 13 Jul 2026 23:00:14 +0000",
       "read_min": 1
     },
     {
@@ -54,17 +65,6 @@
       "summary_od": "ଫେଡେରାଲ ରିଜର୍ଭରେ ଗଭର୍ଣ୍ଣର ଥିବା କ୍ରିଷ୍ଟୋଫର ଜେ. ୱାଲର କହିଥିଲେ ଯେ ଦୃଷ୍ଟିକୋଣ ବିଷୟରେ ଆତ୍ମବିଶ୍ୱାସ ଅନୁଭବ କରିବା ପାଇଁ ତାଙ୍କୁ ଅନେକ ମାସର କମ୍ ମୁଦ୍ରାସ୍ଫୀତି ତଥ୍ୟ ଦେଖିବାକୁ ପଡ଼ିବ ।",
       "link": "https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html",
       "published": "Mon, 13 Jul 2026 17:52:04 +0000",
-      "read_min": 1
-    },
-    {
-      "source": "NYT",
-      "category": "Business",
-      "title_en": "Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States",
-      "summary_en": "The lawsuit, filed by California and 11 other states, argues that the deal would harm movie theaters and damage America’s entertainment industry.",
-      "title_od": "ପାରାମାଉଣ୍ଟ-ୱାର୍ଣ୍ଣର ବ୍ରଦର୍ସ ମିଶ୍ରଣକୁ କାଲିଫର୍ଣ୍ଣିଆ ଏବଂ 11ଟି ଅନ୍ୟ ରାଜ୍ୟ କୋର୍ଟରେ ଚ୍ୟାଲେଞ୍ଜ କରିଛନ୍ତି।",
-      "summary_od": "କାଲିଫର୍ଣ୍ଣିଆ ଏବଂ ଅନ୍ୟ 11ଟି ରାଜ୍ୟ ଦ୍ୱାରା ଦାଖଲ ହୋଇଥିବା ମକଦ୍ଦମାରେ ଯୁକ୍ତି କରାଯାଇଛି ଯେ ଏହି ଚୁକ୍ତି ଚଳଚ୍ଚିତ୍ର ଥିଏଟରକୁ କ୍ଷତି ପହଞ୍ଚାଇବ ଏବଂ ଆମେରିକାର ମନୋରଞ୍ଜନ ଉଦ୍ୟୋଗକୁ କ୍ଷତି ପହଞ୍ଚାଇବ ।",
-      "link": "https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html",
-      "published": "Mon, 13 Jul 2026 18:26:02 +0000",
       "read_min": 1
     },
     {
@@ -136,34 +136,34 @@
     {
       "source": "FT",
       "category": "World",
-      "title_en": "US will charge 20% fee for ships using Strait of Hormuz, Trump says",
-      "summary_en": "President claims Washington will be ‘guardian’ of waterway and seek reimbursement to provide security for vessels",
-      "title_od": "ହର୍ମୁଜ୍ ଜଳସେଚନ ବ୍ୟବହାର କରୁଥିବା ଜାହାଜଗୁଡ଼ିକ ପାଇଁ ଆମେରିକା 20% ଶୁଳ୍କ ଆଦାୟ କରିବ ବୋଲି ଟ୍ରମ୍ପ କହିଛନ୍ତି।",
-      "summary_od": "ରାଷ୍ଟ୍ରପତି ଦାବି କରିଛନ୍ତି ଯେ ୱାଶିଂଟନ ଜଳପଥର 'ଅଭିଭାବକ' ହେବ ଏବଂ ଜାହାଜଗୁଡ଼ିକୁ ସୁରକ୍ଷା ପ୍ରଦାନ କରିବା ପାଇଁ କ୍ଷତିପୂରଣ ମାଗିବ ।",
-      "link": "https://www.ft.com/content/b1ab6ab2-b893-4605-b2b1-571ba9f46bd1",
-      "published": "Mon, 13 Jul 2026 18:59:58 GMT",
+      "title_en": "China’s vast air clean-up marred by wartime coal power surge",
+      "summary_en": "FT analysis shows extent of enormous progress since ‘airpocalypse’ — and latest emissions increase",
+      "title_od": "ଚୀନର ବିଶାଳ ବାୟୁ ସଫାସୁତୁରା ଯୁଦ୍ଧକାଳୀନ କୋଇଲା ଶକ୍ତି ବୃଦ୍ଧି ଦ୍ୱାରା ବାଧାପ୍ରାପ୍ତ ହୋଇଛି",
+      "summary_od": "ଏଫ୍‌.ଟି. ବିଶ୍ଳେଷଣରେ 'ବାୟୁବିପତ୍ତନ' ପରଠାରୁ ବିପୁଳ ପ୍ରଗତିର ପରିସର ଦର୍ଶାଯାଇଛି ଏବଂ ସର୍ବଶେଷ ନିର୍ଗମନ ବୃଦ୍ଧି ପାଇଛି ।",
+      "link": "https://www.ft.com/content/e67f40b6-48d6-4057-8d57-a9f5f6b0a741",
+      "published": "Tue, 14 Jul 2026 01:30:22 GMT",
       "read_min": 1
     },
     {
       "source": "FT",
       "category": "World",
-      "title_en": "US appeals court revives lawsuits linking painkiller Tylenol to autism",
-      "summary_en": "Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation",
-      "title_od": "ଯନ୍ତ୍ରଣା ଉପଶମକାରୀ ଔଷଧ ଟାଇଲେନୋଲ୍‌କୁ ଅଟିଜିମ୍‌ ସହିତ ଯୋଡ଼ିବା ମାମଲାକୁ ୟୁ.ଏସ୍‌. ଆପିଲେସ୍‌ କୋର୍ଟ ପୁନଃ ଆରମ୍ଭ କରିଛନ୍ତି।",
-      "summary_od": "ନ୍ୟୁୟର୍କରେ ଥିବା ଫେଡେରାଲ୍ ପ୍ୟାନେଲ୍‌ର ବିଚାରପତିମାନେ ମକଦ୍ଦମା ଖାରଜ କରିବା ସମୟରେ ବିଶେଷଜ୍ଞଙ୍କ ସାକ୍ଷ୍ୟକୁ ଭୁଲ୍‌ ଭାବେ ବାଦ୍‌ ଦେଇଥିଲେ ବୋଲି ଜଣାପଡ଼ିଛି।",
-      "link": "https://www.ft.com/content/7c000308-c23e-47d0-8127-eb7184764cc5",
-      "published": "Mon, 13 Jul 2026 18:24:20 GMT",
+      "title_en": "Dr Reddy’s runs into trouble with its weight-loss drug",
+      "summary_en": "Also in this newsletter, the UK-India trade deal goes live this week",
+      "title_od": "ଡକ୍ଟର ରେଡ୍ଡୀଙ୍କ ଓଜନ ହ୍ରାସ କରୁଥିବା ଔଷଧ ସହିତ ଅସୁବିଧାରେ ପଡ଼ିଛି।",
+      "summary_od": "ଏହି ସମ୍ବାଦପତ୍ରରେ, ବ୍ରିଟେନ-ଭାରତ ବାଣିଜ୍ୟ ଚୁକ୍ତି ମଧ୍ୟ ଏହି ସପ୍ତାହରେ କାର୍ଯ୍ୟକାରୀ ହେବ।",
+      "link": "https://www.ft.com/content/32b8dcfb-9b8d-416b-8e5b-6423f9d201ca",
+      "published": "Tue, 14 Jul 2026 01:30:05 GMT",
       "read_min": 1
     },
     {
       "source": "FT",
       "category": "World",
-      "title_en": "Shell sells Indian wind and solar business for $1.8bn",
-      "summary_en": "Aditya Birla Renewables takes on Shell’s renewable assets in India as energy major continues to refocus on oil and gas",
-      "title_od": "ଶେଲ୍ ଭାରତୀୟ ପବନ ଏବଂ ସୌର ବ୍ୟବସାୟକୁ $180 କୋଟିରେ ବିକ୍ରି କରୁଛି।",
-      "summary_od": "ଆଦିତ୍ୟ ବିର୍ଲା ରିନ୍ୟୁଏବଲ୍ସ ଭାରତରେ ଶେଲ୍‌ର ଅକ୍ଷୟ ଶକ୍ତି ସମ୍ପତ୍ତିକୁ ନିଜ ହାତକୁ ନେଇଛି, କାରଣ ଶକ୍ତି କ୍ଷେତ୍ରର ପ୍ରମୁଖ କମ୍ପାନୀ ତୈଳ ଏବଂ ଗ୍ୟାସ୍ ଉପରେ ନିଜର ଧ୍ୟାନ କେନ୍ଦ୍ରିତ କରିଚାଲିଛି ।",
-      "link": "https://www.ft.com/content/e9a826a4-db60-458b-8886-a94a3a111cff",
-      "published": "Mon, 13 Jul 2026 18:13:33 GMT",
+      "title_en": "US launches air strikes as Iran targets tankers with cruise missiles",
+      "summary_en": "Donald Trump said Washington would hit the Islamic republic ‘hard’ on Monday and Tuesday nights",
+      "title_od": "ଇରାନ କ୍ରୁଜ କ୍ଷେପଣାସ୍ତ୍ରରେ ଟ୍ୟାଙ୍କରକୁ ଟାର୍ଗେଟ କରୁଥିବା ବେଳେ ଆମେରିକା ବାୟୁ ଆକ୍ରମଣ ଆରମ୍ଭ କଲା",
+      "summary_od": "ଡୋନାଲ୍ଡ ଟ୍ରମ୍ପ ସୋମବାର ଓ ମଙ୍ଗଳବାର ରାତିରେ ଇସଲାମୀୟ ଗଣରାଜ୍ୟକୁ 'ଜୋର୍‌‌ରେ' ଟାର୍ଗେଟ କରିବେ ବୋଲି କହିଥିଲେ ।",
+      "link": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
+      "published": "Mon, 13 Jul 2026 23:59:07 GMT",
       "read_min": 1
     }
   ]
