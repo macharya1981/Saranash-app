@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-07-19 02:42",
+  "generated_at": "2026-07-19 08:18",
   "items": [
+    {
+      "source": "NYT",
+      "category": "World",
+      "title_en": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
+      "summary_en": "The Tokyo government is allowing workers to wear shorts for the first time this summer, prompting delicate questions about etiquette and hairy legs.",
+      "title_od": "ଟୋକିଓର ନୂତନ ଛୋଟ ପୋଷାକ ନୀତି ଜାପାନରେ କାହିଁକି ଚର୍ଚ୍ଚାର ବିଷୟ ହେଉଛି?",
+      "summary_od": "ଟୋକିଓ ସରକାର ଏହି ଗ୍ରୀଷ୍ମରେ ପ୍ରଥମ ଥର ପାଇଁ ଶ୍ରମିକମାନଙ୍କୁ ସର୍ଟ୍‌ସ ପିନ୍ଧିବାକୁ ଅନୁମତି ଦେଉଛନ୍ତି, ଯାହା ଶିଷ୍ଟାଚାର ଏବଂ କେଶଯୁକ୍ତ ଗୋଡ଼ ବିଷୟରେ ସୂକ୍ଷ୍ମ ପ୍ରଶ୍ନ ଉଠାଇଛି।",
+      "link": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
+      "published": "Sun, 19 Jul 2026 04:01:05 +0000",
+      "read_min": 1
+    },
     {
       "source": "NYT",
       "category": "World",
@@ -9,7 +20,7 @@
       "title_od": "ଇରାନ ଯୁଦ୍ଧ ଲାଇଭ୍ ଅପଡେଟ୍: ଇରାନୀୟ ଆକ୍ରମଣରେ 2 ଆମେରିକୀୟ ସୈନିକଙ୍କ ମୃତ୍ୟୁ ପରେ ଆମେରିକା ଆକ୍ରମଣ ଆରମ୍ଭ କଲା",
       "summary_od": "ଜୋର୍ଡାନରେ ନିହତ ହୋଇଥିବା ସୈନିକମାନେ, ଏପ୍ରିଲ୍‌ରେ ଏକ ଯୁଦ୍ଧବିରତି ପରେ, ଶତ୍ରୁ ଗୁଳିରେ ପ୍ରାଣ ହରାଇଥିବା ପ୍ରଥମ ଆମେରିକୀୟ ସୈନିକ ଥିଲେ। ୟୁ.ଏସ୍. ସୈନ୍ୟମାନେ ରବିବାର ସକାଳେ ପ୍ରତିଶୋଧମୂଳକ ଆକ୍ରମଣ ଆରମ୍ଭ କରିଥିଲେ।",
       "link": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-      "published": "Sun, 19 Jul 2026 02:23:20 +0000",
+      "published": "Sun, 19 Jul 2026 06:48:03 +0000",
       "read_min": 1
     },
     {
@@ -20,18 +31,7 @@
       "title_od": "ୟୁକ୍ରେନର ଶୀର୍ଷ ଜେନେରାଲ ବିକ୍ଷୋଭକାରୀଙ୍କ କ୍ରୋଧର ଶିକାର ହେଲେ",
       "summary_od": "ୟୁକ୍ରେନର ହଟାଇ ଦିଆଯାଇଥିବା ପ୍ରତିରକ୍ଷା ମନ୍ତ୍ରୀଙ୍କୁ ସମର୍ଥନ କରୁଥିବା ବିକ୍ଷୋଭକାରୀମାନେ, ସେ କାର୍ଯ୍ୟଭାର ଗ୍ରହଣ କରିବା ସମୟରେ ତାଙ୍କ ସହ ସଂଘର୍ଷ କରିଥିବା ସେନାଧ୍ୟକ୍ଷ ଜେନେରାଲ ଓଲେକ୍ସାଣ୍ଡର ସିର୍ସ୍କିଙ୍କୁ ନିନ୍ଦା କରିବା ଆରମ୍ଭ କରିଦେଇଛନ୍ତି ।",
       "link": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
-      "published": "Sat, 18 Jul 2026 20:40:57 +0000",
-      "read_min": 1
-    },
-    {
-      "source": "NYT",
-      "category": "World",
-      "title_en": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
-      "summary_en": "Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.",
-      "title_od": "କାନାଡାର ଅଣ୍ଟାରିଓରେ ଜଙ୍ଗଲ ନିଆଁ ଜାରି ରହିଛି, ଯାହା ଆମେରିକାର ସହରକୁ ଧୂଆଁ ପଠାଉଛି।",
-      "summary_od": "କାନାଡା ଏବଂ ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକାର କିଛି ଅଂଶରେ ଧୂଆଁ ପ୍ରବାହିତ ହେବାରେ ଲାଗିଲାବେଳେ ପ୍ରାୟ 200ଟି ଅଗ୍ନିକାଣ୍ଡ ଏହି ପ୍ରଦେଶର ବହୁ ଅଞ୍ଚଳକୁ ଧ୍ୱଂସ କରିଚାଲିଥିଲା ।",
-      "link": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
-      "published": "Sat, 18 Jul 2026 18:03:18 +0000",
+      "published": "Sun, 19 Jul 2026 07:13:23 +0000",
       "read_min": 1
     },
     {
@@ -141,29 +141,29 @@
       "title_od": "ଜୋର୍ଡାନରେ ଦୁଇ ଆମେରିକୀୟ ସୈନିକଙ୍କ ମୃତ୍ୟୁ ପରେ ଆମେରିକା ଇରାନ ଉପରେ ଆକ୍ରମଣ କରିଥିଲା।",
       "summary_od": "ତେହେରାନ ଗଲ୍ଫ ରାଷ୍ଟ୍ରଗୁଡ଼ିକ ଉପରେ ଆକ୍ରମଣ ଆରମ୍ଭ କରିବା ପରେ, ହୋର୍ମୁଜ ସ୍ତ୍ରୀଲିପି ଉପରେ ନିୟନ୍ତ୍ରଣ ପାଇଁ ଲଢ଼େଇ ତୀବ୍ର ହୋଇଛି।",
       "link": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-      "published": "Sat, 18 Jul 2026 22:54:39 GMT",
+      "published": "Sun, 19 Jul 2026 04:39:42 GMT",
       "read_min": 1
     },
     {
       "source": "FT",
       "category": "World",
-      "title_en": "Burnham scraps new digital ID scheme",
-      "summary_en": "Incoming prime minister says money saved will go towards tackling cost-of-living crisis",
-      "title_od": "ବର୍ନହାମ୍ ନୂତନ ଡିଜିଟାଲ୍ ଆଇ.ଡି. ଯୋଜନାକୁ ବାତିଲ କଲେ।",
-      "summary_od": "ଆଗାମୀ ପ୍ରଧାନମନ୍ତ୍ରୀ କହୁଛନ୍ତି ଯେ ସଞ୍ଚିତ ଅର୍ଥ ଜୀବନଧାରଣର ଖର୍ଚ୍ଚ ସଙ୍କଟକୁ ମୁକାବିଲା କରିବା ଦିଗରେ ବ୍ୟବହୃତ ହେବ।",
-      "link": "https://www.ft.com/content/8f5445ab-dacb-4908-909f-277853ad0f50?syn-25a6b1a6=1",
-      "published": "Sat, 18 Jul 2026 20:00:31 GMT",
+      "title_en": "No longer grim up north for UK banks as Burnham comes to power",
+      "summary_en": "NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda",
+      "title_od": "ବର୍ନହାମ୍ କ୍ଷମତାକୁ ଆସିବା ପରେ ବ୍ରିଟେନର ବ୍ୟାଙ୍କଗୁଡ଼ିକ ପାଇଁ ଆଉ ଭୟଙ୍କର ପରିସ୍ଥିତି ନାହିଁ",
+      "summary_od": "ନୂତନ ଲେବର ନେତାଙ୍କ ସ୍ୱାୟତ୍ତତା କାର୍ଯ୍ୟସୂଚୀକୁ ପାଣ୍ଠି ଯୋଗାଇବା ପାଇଁ ଚେଷ୍ଟା କରୁଥିବା ବେଳେ, ନାଟୱେଷ୍ଟ ଏବଂ ଲୟଡ୍ସ ଆଞ୍ଚଳିକ ଋଣ ପ୍ରଦାନର ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକୁ ଜୋରଦାର କରୁଛନ୍ତି ।",
+      "link": "https://www.ft.com/content/fde736b3-6999-4b9e-979e-2b4b06dbbd5c?syn-25a6b1a6=1",
+      "published": "Sun, 19 Jul 2026 04:00:20 GMT",
       "read_min": 1
     },
     {
       "source": "FT",
       "category": "World",
-      "title_en": "Trump to fund Maga-aligned projects in Europe as he reorders US aid",
-      "summary_en": "Objectives include countering ‘censorship’ from EU regulations and supporting ‘national sovereignty’",
-      "title_od": "ୟୁରୋପୀୟ ସଂଘରେ ମାଗାଙ୍କ ସହଯୋଗୀ ପ୍ରକଳ୍ପଗୁଡ଼ିକ ପାଇଁ ଟ୍ରମ୍ପ ଅର୍ଥ ଯୋଗାଇବେ, ଯଦ୍ୱାରା ସେ ଆମେରିକାର ସହାୟତା ପୁନର୍ବଣ୍ଟନ କରିବେ",
-      "summary_od": "ଉଦ୍ଦେଶ୍ୟଗୁଡ଼ିକ ମଧ୍ୟରେ ଇ.ୟୁ. ନିୟମାବଳୀରୁ 'ସେନ୍ସରସିପ୍'କୁ ପ୍ରତିହତ କରିବା ଏବଂ 'ଜାତୀୟ ସାର୍ବଭୌମତ୍ୱ'କୁ ସମର୍ଥନ କରିବା ଅନ୍ତର୍ଭୁକ୍ତ।",
-      "link": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1",
-      "published": "Sat, 18 Jul 2026 17:22:03 GMT",
+      "title_en": "How Maga fell hard for the gender binary",
+      "summary_en": "Pete Hegseth’s championing of testosterone for troops is the latest manifestation of the rightwing movement’s aesthetic",
+      "title_od": "ମାଗା କିପରି ଲିଙ୍ଗ ଦ୍ୱୈତବାଦ ପ୍ରତି ଆକର୍ଷିତ ହେଲେ",
+      "summary_od": "ସୈନ୍ୟମାନଙ୍କ ପାଇଁ ଟେଷ୍ଟୋଷ୍ଟେରନ୍‌ର ପ୍ରଚାର କରୁଛନ୍ତି ପିଟ ହେଗ୍‌ସେଥ୍‌, ଯାହା ହେଉଛି ଦକ୍ଷିଣପନ୍ଥୀ ଆନ୍ଦୋଳନର ସୌନ୍ଦର୍ଯ୍ୟବୋଧର ସଦ୍ୟତମ ଅଭିବ୍ୟକ୍ତି।",
+      "link": "https://www.ft.com/content/c5045a09-29c1-4a9b-8f5b-f8dead22b09c?syn-25a6b1a6=1",
+      "published": "Sun, 19 Jul 2026 04:00:20 GMT",
       "read_min": 1
     }
   ]
