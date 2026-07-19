@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-19 13:17",
+  "generated_at": "2026-07-19 19:06",
   "items": [
     {
       "source": "NYT",
       "category": "World",
-      "title_en": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
-      "summary_en": "The U.S. military said it had targeted Iranian forces that were responsible for an attack on a base in Jordan that left two American service members dead and one missing.",
-      "title_od": "ଇରାନ ଯୁଦ୍ଧ ଲାଇଭ୍ ଅପଡେଟ୍: ୟୁ.ଏସ୍. ଏବଂ ଇରାନ ମଧ୍ୟରେ ଯୁଦ୍ଧର ଆଡ଼କୁ ଆହୁରି ନିକଟତର, ୟୁ.ଏସ୍. ସର୍ଭିସ ସଦସ୍ୟଙ୍କ ମୃତ୍ୟୁ ପରେ",
-      "summary_od": "ଆମେରିକା ସେନା କହିଛି ଯେ ସେ ଜୋର୍ଡାନର ଏକ ବେସ୍ ଉପରେ ହୋଇଥିବା ଆକ୍ରମଣ ପାଇଁ ଦାୟୀ ଇରାନୀୟ ସେନାକୁ ଲକ୍ଷ୍ୟରେ ରଖିଥିଲା, ଯେଉଁଥିରେ ଦୁଇ ଜଣ ଆମେରିକୀୟ ସୈନିକଙ୍କ ମୃତ୍ୟୁ ହୋଇଥିଲା ଏବଂ ଜଣେ ନିଖୋଜ ଥିଲା।",
+      "title_en": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed",
+      "summary_en": "The United States was said to be sending more warplanes to the Middle East, a move that was already in the works before Iranian fire killed two soldiers in Jordan.",
+      "title_od": "ଇରାନ ଯୁଦ୍ଧ ଲାଇଭ୍ ଅପଡେଟ୍: ୟୁ.ଏସ୍. ସୈନିକଙ୍କ ମୃତ୍ୟୁ ପରେ ୟୁ.ଏସ୍. ଏବଂ ଇରାନ ମଧ୍ୟରେ ଯୁଦ୍ଧର ବିସ୍ତାର ଆଶଙ୍କା ଅଧିକ ରହିଛି",
+      "summary_od": "କୁହାଯାଉଥିଲା ଯେ ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ମଧ୍ୟପ୍ରାଚ୍ୟକୁ ଅଧିକ ଯୁଦ୍ଧବିମାନ ପଠାଉଛି, ଏହି ପଦକ୍ଷେପଟି ଇରାନର ଗୁଳି ଯୋଗୁ ଜୋର୍ଡାନରେ ଦୁଇ ଜଣ ସୈନିକଙ୍କ ମୃତ୍ୟୁ ପୂର୍ବରୁ କାର୍ଯ୍ୟରେ ଲାଗୁ ହୋଇସାରିଥିଲା ।",
       "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-      "published": "Sun, 19 Jul 2026 13:06:21 +0000",
+      "published": "Sun, 19 Jul 2026 18:47:23 +0000",
       "read_min": 1
     },
     {
@@ -37,6 +37,17 @@
     {
       "source": "NYT",
       "category": "Business",
+      "title_en": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
+      "summary_en": "Christopher Nolan’s nearly three-hour epic was No. 1 over the weekend, with about $124.5 million in ticket sales in the United States and Canada.",
+      "title_od": "ନୋଲାନଙ୍କ 'ଦ ଓଡିସି' ପ୍ରଥମ ସପ୍ତାହାନ୍ତରେ ବକ୍ସ ଅଫିସରେ 124.5 ନିୟୁତ ଡଲାର ଆୟ କରିଥିଲା।",
+      "summary_od": "କ୍ରିଷ୍ଟୋଫର ନୋଲାନ୍‌ଙ୍କ ପ୍ରାୟ ତିନି ଘଣ୍ଟାର ମହାନ କୃତି ସପ୍ତାହାନ୍ତରେ ନଂ. 1ରେ ଥିଲା, ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ଏବଂ କାନାଡାରେ ପ୍ରାୟ $12.45 କୋଟି ଟିକେଟ ବିକ୍ରି ହୋଇଥିଲା।",
+      "link": "https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html",
+      "published": "Sun, 19 Jul 2026 16:54:07 +0000",
+      "read_min": 1
+    },
+    {
+      "source": "NYT",
+      "category": "Business",
       "title_en": "The Case of the 3:30 Emails",
       "summary_en": "Plus: Are you really paying attention to me on Zoom?",
       "title_od": "3:30 ଇମେଲ ମାମଲା",
@@ -54,17 +65,6 @@
       "summary_od": "କୃତ୍ରିମ ବୁଦ୍ଧିମତ୍ତାର ଯୁଗରେ ଅର୍ଥପୂର୍ଣ୍ଣ କାର୍ଯ୍ୟ ଖୋଜୁଥିବା ଲୋକମାନଙ୍କ ମଧ୍ୟରେ ଏକ ଦଶନ୍ଧି-ପୁରୁଣା ଆତ୍ମ-ସହାୟତା ଧାରଣା ନୂତନ କ୍ରୟ ଲାଭ କରୁଛି।",
       "link": "https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html",
       "published": "Sun, 19 Jul 2026 12:56:30 +0000",
-      "read_min": 1
-    },
-    {
-      "source": "NYT",
-      "category": "Business",
-      "title_en": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
-      "summary_en": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
-      "title_od": "ପଲିମାର୍କେଟର ଶାଏନ କୋପ୍‌ଲାନ ଏବଂ କାଲ୍‌ସ୍‌ହିଙ୍କ ତରେକ୍ ମନସୌରଙ୍କ ମଧ୍ୟରେ 'ବ୍ୟାଡ୍ ବ୍ଲଡ୍'",
-      "summary_od": "ପଲିମାର୍କେଟର ଶାଏନ କୋପ୍‌ଲାନ ଏବଂ କାଲ୍‌ସ୍‌ହିର ତରେକ୍ ମନସୋର୍‌ ହେଉଛନ୍ତି ଯୁବ କୋଟିପତି, ଯେଉଁମାନେ ପୂର୍ବାନୁମାନ ବଜାରଗୁଡ଼ିକ ଉପରେ ଆଧିପତ୍ୟ ବିସ୍ତାର କରିବାକୁ ଇଚ୍ଛା କରନ୍ତି। ଏହା ଏକ ଯୁଦ୍ଧଠାରୁ ଅଧିକ। ଏହାର ନାମ \"ଖରାପ ରକ୍ତ\" ।",
-      "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
-      "published": "Sun, 19 Jul 2026 09:00:24 +0000",
       "read_min": 1
     },
     {
@@ -136,34 +136,34 @@
     {
       "source": "FT",
       "category": "World",
+      "title_en": "Boeing says it will be ready to fund new plane programme by 2030",
+      "summary_en": "US group expects to have firepower to start work on 737 Max successor but warns that demand may be more of a constraint",
+      "title_od": "ବୋଇଂ କହୁଛି ଯେ 2030 ସୁଦ୍ଧା ନୂତନ ବିମାନ କାର୍ଯ୍ୟକ୍ରମ ପାଇଁ ଏହା ପାଣ୍ଠି ଯୋଗାଇବ ।",
+      "summary_od": "ଆମେରିକୀୟ ଗୋଷ୍ଠୀ 737 ମ୍ୟାକ୍ସ ଉତ୍ତରାଧିକାରୀ ଉପରେ କାର୍ଯ୍ୟ ଆରମ୍ଭ କରିବା ପାଇଁ ଅଗ୍ନିଶକ୍ତି ପାଇବାକୁ ଆଶା କରୁଛି, କିନ୍ତୁ ଚେତାବନୀ ଦେଇଛି ଯେ ଚାହିଦା ଅଧିକ ପ୍ରତିବନ୍ଧକ ହୋଇପାରେ।",
+      "link": "https://www.ft.com/content/c688ea11-c066-44a3-9372-2e2293e9e6f9?syn-25a6b1a6=1",
+      "published": "Sun, 19 Jul 2026 17:22:26 GMT",
+      "read_min": 1
+    },
+    {
+      "source": "FT",
+      "category": "World",
+      "title_en": "Burnham’s British reboot begins",
+      "summary_en": "‘King of the North’ comes south, ECB rate decision, Trump returns to a rescheduled White House correspondents’ dinner",
+      "title_od": "ବର୍ନହାମ୍‌ଙ୍କ ବ୍ରିଟିଶ୍‌ ରିବୁଟ୍ ଆରମ୍ଭ ହୁଏ",
+      "summary_od": "'ଉତ୍ତରର ରାଜା' ଦକ୍ଷିଣକୁ ଆସନ୍ତି, ଇ.ସି.ବି. ଦର ନିର୍ଦ୍ଧାରଣ, ଟ୍ରମ୍ପ ପୁନଃନିର୍ଦ୍ଧାରିତ ହ୍ୱାଇଟ ହାଉସ୍ ସାମ୍ବାଦିକଙ୍କ ଡିନରକୁ ଫେରିଛନ୍ତି।",
+      "link": "https://www.ft.com/content/0b2af747-f298-4740-a3d2-7165f1f687be?syn-25a6b1a6=1",
+      "published": "Sun, 19 Jul 2026 17:15:04 GMT",
+      "read_min": 1
+    },
+    {
+      "source": "FT",
+      "category": "World",
       "title_en": "Burnham to maintain ban on North Sea exploration licences",
       "summary_en": "Decision criticised by oil and gas industry as well as trade union",
       "title_od": "ଉତ୍ତର ସାଗର ଅନୁସନ୍ଧାନ ଲାଇସେନ୍ସ ଉପରେ ନିଷେଧାଜ୍ଞା ବଜାୟ ରଖିବା ପାଇଁ ବର୍ନହାମ୍‌",
       "summary_od": "ନିଷ୍ପତ୍ତିକୁ ତୈଳ ଓ ଗ୍ୟାସ ଶିଳ୍ପ ତଥା ଶ୍ରମିକ ସଂଘ ସମାଲୋଚନା କରିଛନ୍ତି।",
       "link": "https://www.ft.com/content/d9631aae-1100-43e0-a09a-e49f5c21f896?syn-25a6b1a6=1",
-      "published": "Sun, 19 Jul 2026 12:22:16 GMT",
-      "read_min": 1
-    },
-    {
-      "source": "FT",
-      "category": "World",
-      "title_en": "India’s rupee problem has been misdiagnosed",
-      "summary_en": "Currency weakness reflects subdued private investment and uncertainty over the business climate",
-      "title_od": "ଭାରତର ଟଙ୍କା ସମସ୍ୟାକୁ ଭୁଲ୍‌ ରୋଗ ନିର୍ଣ୍ଣୟ କରାଯାଇଛି ।",
-      "summary_od": "ମୁଦ୍ରା ଦୁର୍ବଳତା ଘରୋଇ ନିବେଶର ହ୍ରାସ ଏବଂ ବ୍ୟବସାୟ ପରିବେଶ ଉପରେ ଅନିଶ୍ଚିତତାକୁ ପ୍ରତିଫଳିତ କରିଥାଏ।",
-      "link": "https://www.ft.com/content/29985fc4-db18-4799-ae3c-59877a6c5bc9",
-      "published": "Sun, 19 Jul 2026 12:07:54 GMT",
-      "read_min": 1
-    },
-    {
-      "source": "FT",
-      "category": "World",
-      "title_en": "Burnham should pursue a devolution ‘big bang’",
-      "summary_en": "If done right, radical decentralisation could boost UK productivity growth and living standards",
-      "title_od": "ବର୍ନହାମ୍‌ଙ୍କୁ ଏକ ଭାଗିଦାରୀ 'ବିଗ୍ ବ୍ୟାଙ୍ଗ'ର ଅନୁସନ୍ଧାନ କରିବା ଉଚିତ ।",
-      "summary_od": "ଯଦି ଠିକ୍ ଭାବେ କରାଯାଏ, ତେବେ ମୌଳିକ ବିକେନ୍ଦ୍ରୀକରଣ ୟୁ.କେ. ଉତ୍ପାଦକତା ଅଭିବୃଦ୍ଧି ଏବଂ ଜୀବନଧାରଣ ମାନକୁ ବୃଦ୍ଧି କରିପାରିବ।",
-      "link": "https://www.ft.com/content/45657e57-c8d0-4e58-b20d-d67a7bfdb050?syn-25a6b1a6=1",
-      "published": "Sun, 19 Jul 2026 11:00:02 GMT",
+      "published": "Sun, 19 Jul 2026 15:37:26 GMT",
       "read_min": 1
     }
   ]
